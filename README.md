@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-CARVO, Crowd Voting is a significant software solution that arises out of the need to optimize and modernize political systems. The existing situation presents the government with difficulties characterized by dispersed citizen participation and transparent decision-making. By adding modules covering user management, real-time voter preference understanding, governmental assistants, AI-enhanced project management, decision-making, and project funding, CARVO systematically addresses these difficulties. The identified gap is the lack of a comprehensive solution catering to the specific requirements of political bodies. Increased user involvement, Transparent procedures, and better decision-making are among the goals. CARVO is important because it can promote a political system that is more responsible, efficient, and inclusive, which will be advantageous to both citizens and political leaders.
+CARVO, Crowd Voting, is a transformative software solution designed to optimize and modernize political systems. The current challenges faced by governments include dispersed citizen participation and opaque decision-making processes. CARVO addresses these issues systematically by incorporating modules for user management, real-time voter preference understanding, governmental assistants, AI-enhanced project management, decision-making, and project funding.
+
+The identified gap in existing solutions underscores the need for a comprehensive platform tailored to the specific requirements of political bodies. CARVO aims to increase user involvement, ensure transparent procedures, and facilitate better decision-making. Its significance lies in its potential to promote a more responsible, efficient, and inclusive political system, benefiting both citizens and political leaders.
 
 ## Table of Contents
 - [About CARVO](#about-carvo)
@@ -47,7 +49,7 @@ CARVO, Crowd Voting is a significant software solution that arises out of the ne
 
 ## About CARVO
 
-This project idea seeks to cast a spotlight on the importance and complexities of our ground-breaking initiative, CARVO (Crowd Voting). Primarily, CARVO is an attempt to improve and streamline governance in response to the changing political environment. There are still issues in the political environment we are in today: there is a lack of coordinated data collection, poor citizen communication, and difficulty effectively managing initiatives. With its user-friendly modules, CARVO offers a solution that aims to change the way we handle user management, comprehend voter preferences in real-time, assist politicians with personal assistants, use smart technology for project management, promote transparent decision-making, and project financing. This proposal explores the background context and demonstrates why CARVO is a proactive move towards modernizing political practices rather than only a solution to current issues. Together, we will discover why CARVO is more than just a system rather, it is an essential development in the field of politics.
+This project spotlights the importance and complexities of CARVO (Crowd Voting), an initiative to improve and streamline governance in response to the changing political environment. CARVO addresses issues such as a lack of coordinated data collection, poor citizen communication, and ineffective initiative management. With user-friendly modules, CARVO revolutionizes user management, real-time voter preference understanding, political assistants, smart project management, transparent decision-making, and project financing. Beyond addressing current issues, CARVO is a proactive move towards modernizing political practices.
 
 ## Getting Started
 
