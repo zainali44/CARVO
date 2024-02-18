@@ -47,59 +47,7 @@ CARVO, Crowd Voting is a significant software solution that arises out of the ne
 
 ## About CARVO
 
-CARVO is a robust Project Management System designed to streamline project-related activities, enhance collaboration, and provide valuable insights through advanced analytics.
-
-## Modules Overview
-
-### Module 1: User Profile Management
-- **Public Profile Management**
-  - Facilitate seamless sign-in/sign-up experience.
-  - Efficient password recovery mechanism.
-  - Centralized and intuitive user dashboard.
-  - Easily edit and update profile information.
-  - Secure and straightforward password change.
-  - Conveniently view important notifications.
-  - Empower users with robust privacy settings.
-  - Ensure security through a simple logout.
-
-- **Regional Administrator Profile Management**
-  - Initiate the secure sign-in process.
-  - Access and review administrator profile.
-  - Efficiently recover forgotten passwords.
-  - Navigate the centralized administrative dashboard.
-  - Execute the process for changing passwords.
-  - Stay informed through the notification view.
-  - Tailor privacy settings for administrator preferences.
-  - Modify regional information with ease.
-  - Access and review statistical data for the region.
-  - Edit and update administrator profile information.
-  - Receive notifications specific to regional activities.
-
-- **Parliamentary Assistants Profile Management**
-  - Access and review user profile.
-  - Implement password change seamlessly.
-  - Efficiently recover forgotten passwords.
-  - Navigate through the user-centric dashboard.
-  - View and manage notifications effortlessly.
-  - Customize privacy settings according to preferences.
-  - Establish a new regional administrator account.
-  - Access and review the user's task list.
-  - Modify and update the existing task list.
-  - Initiate a request for assistance.
-  - Integrate and synchronize with the calendar.
-
-- **Admin Profile Management**
-  - Access and review Assistant profile.
-  - Configure global settings and parameters for the entire system.
-  - Monitor and review an extensive audit trail of system activities and changes.
-  - Track and analyze user activities across the platform.
-  - Add Admin.
-  - Remove Admin.
-
-### Module 2: Project Management
-Facilitates project-related activities, including public contribution, project viewing, and proposal management for different user roles.
-
-...
+This project idea seeks to cast a spotlight on the importance and complexities of our ground-breaking initiative, CARVO (Crowd Voting). Primarily, CARVO is an attempt to improve and streamline governance in response to the changing political environment. There are still issues in the political environment we are in today: there is a lack of coordinated data collection, poor citizen communication, and difficulty effectively managing initiatives. With its user-friendly modules, CARVO offers a solution that aims to change the way we handle user management, comprehend voter preferences in real-time, assist politicians with personal assistants, use smart technology for project management, promote transparent decision-making, and project financing. This proposal explores the background context and demonstrates why CARVO is a proactive move towards modernizing political practices rather than only a solution to current issues. Together, we will discover why CARVO is more than just a system rather, it is an essential development in the field of politics.
 
 ## Getting Started
 
