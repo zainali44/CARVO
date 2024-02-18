@@ -1,8 +1,8 @@
-# CARVO - Project Management System
+# CARVO - Crowd Voting
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-CARVO is a comprehensive Project Management System that facilitates user profile management, project activities, proposal generation, public opinion polling, AI-based analysis, resource allocation, project financing transparency, user statistics, report generation, news feed management, and notifications.
+CARVO, Crowd Voting is a significant software solution that arises out of the need to optimize and modernize political systems. The existing situation presents the government with difficulties characterized by dispersed citizen participation and transparent decision-making. By adding modules covering user management, real-time voter preference understanding, governmental assistants, AI-enhanced project management, decision-making, and project funding, CARVO systematically addresses these difficulties. The identified gap is the lack of a comprehensive solution catering to the specific requirements of political bodies. Increased user involvement, Transparent procedures, and better decision-making are among the goals. CARVO is important because it can promote a political system that is more responsible, efficient, and inclusive, which will be advantageous to both citizens and political leaders.
 
 ## Table of Contents
 - [About CARVO](#about-carvo)
